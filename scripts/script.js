@@ -44,4 +44,4 @@ const loop = setInterval(() => {
     }
 }, 10)
 
- document.addEventListener('keydown' || Touch, jump) //- Qualquer tecla tocada, efetuará a função
+ document.addEventListener('keydown' || 'click', jump) //- Qualquer tecla tocada, efetuará a função
